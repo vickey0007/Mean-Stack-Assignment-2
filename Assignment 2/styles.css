@@ -37,7 +37,7 @@ nav select {display: none;}
 		nav ul{ display: none;}
 		nav select { display: inline-block; margin:auto; padding: 5px 0px;}
 		.col{width: 47.6% !important;margin: 5px 5px 5px 5px;}
-		.col1{width: 100% !important;
+		.col1{width: 100% !important;}
 	}
 	@media (max-width: 400px) {
 		.col{width: 100% !important;margin: 0px auto;text-align: center;}
